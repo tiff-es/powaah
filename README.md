@@ -1,6 +1,7 @@
-### ReadMe Under Construction!!
-Come back soon!
------
+ ReadMe Under Construction!!
+
+
+
 ### Side-Note: 
 This is a repository consisting of two repositories, to meet the requirements of portfolio project guidelines. I made this project with my project partner [Will Comfort](https://github.com/wcomfortI). 
 
